@@ -1,4 +1,4 @@
-# Simple ATM Machine
+# Simple ATM 
 
 
 _It is a simple ATM project made with C language._
